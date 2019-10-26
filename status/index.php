@@ -4,7 +4,9 @@
   <style>
 	@font-face {
 	  font-family: Bavarian;
-	  src: url('fonts/bertholdr-mainzer-fraktur/Bertholdr-Mainzer-Fraktur.ttf');
+/*	  src: url('fonts/bertholdr-mainzer-fraktur/Bertholdr-Mainzer-Fraktur.ttf');   
+	  src: url('fonts/augsburger-schrift-cat/AugsburgerSchriftCAT.ttf');   */
+	  src: url('fonts/alte-schwabacher/AlteSchwabacher.ttf');
 	}
     table, th, td {
       border: 0px solid black;
@@ -24,7 +26,8 @@
 </head>
 <body>
 <br/>
-<h1 style="text-align:center; font-family: Bavarian;">Mike and Cathy's Ocktoberfest</h1>
+<h1 style="font-size: 30px; text-align:center; font-family: Bavarian;">Mike and Cathy's</h1>
+<h1 style="font-size: 60px; text-align:center; font-family: Bavarian;">Ocktoberfest</h1>
 <div >
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
@@ -42,29 +45,27 @@
 </div>
 <br/>
 <div style="
-  align: center;
-  margin: auto;
+	align: center;
+	margin: auto;
     width: 80%;
-	height: 80px;
-	background-color: #00aa00;
+	height: 120px;
+	background-color: khaki;
 	justify-content: center;
-	border: darkgreen 5px solid;
+	border: darkkhaki 5px solid;
 	font-size: 20px;
 	font-family: sans-serif;
-	padding: 10px;
+	padding: 0px;
 	text-align: center;
 	">
-<p>
-Weather Update: Unfortunately, the weather forecast is not looking great for Sunday with showers (potentially heavy at times) predicted. We are still A GO at the moment, but might move our activities indoors.
-</p>
+<p>Weather Update: Unfortunately, the weather forecast is not looking great for Sunday with showers (potentially heavy at times) predicted. We are still A GO at the moment, but we are moving our activities indoors. Probably will need to pass on the moon bounce & smores :( We'll still have a play room available for the kiddos though!</p>
 </div>
 <div style="height: 40px;">
 </div>
 <div style="
-  align: center;
-  margin: auto;
-    width: 80%;
-	height: 400px;
+	align: center;
+	margin: auto;
+	width: 80%;
+	height: 300px;
 	background-color: #fffdd0;
 	justify-content: center;
 	border: darkblue 5px solid;
