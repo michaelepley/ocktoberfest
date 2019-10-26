@@ -29,11 +29,11 @@
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
 <td>
-<h1 style="font-size: 30px; text-align:center; font-family: Bavarian;">Mike &</h1>
-<h1 style="font-size: 30px; text-align:center; font-family: Bavarian;">Cathy's</h1>
+<h1 style="font-size: 30px; text-align:right; font-family: Bavarian;">Mike &</h1>
+<h1 style="font-size: 30px; text-align:right; font-family: Bavarian;">Cathy's</h1>
 </td>
 <td>
-<h1 style="font-size: 80px; text-align:center; font-family: Bavarian;">Ocktoberfest</h1>
+<h1 style="font-size: 80px; text-align:left; font-family: Bavarian;">Ocktoberfest</h1>
 </td>
 </tr>
 </table>
