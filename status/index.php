@@ -26,8 +26,17 @@
 </head>
 <body>
 <br/>
-<h1 style="font-size: 30px; text-align:center; font-family: Bavarian;">Mike and Cathy's</h1>
-<h1 style="font-size: 60px; text-align:center; font-family: Bavarian;">Ocktoberfest</h1>
+<table style="align: center;   margin: auto; width: 80%;">
+<tr>
+<td>
+<h1 style="font-size: 30px; text-align:center; font-family: Bavarian;">Mike &</h1>
+<h1 style="font-size: 30px; text-align:center; font-family: Bavarian;">Cathy's</h1>
+</td>
+<td>
+<h1 style="font-size: 80px; text-align:center; font-family: Bavarian;">Ocktoberfest</h1>
+</td>
+</tr>
+</table>
 <div >
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
