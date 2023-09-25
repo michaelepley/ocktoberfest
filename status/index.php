@@ -41,7 +41,7 @@
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
 <td>
-<h2>October 27, 2pm-10pm</h2>
+<h2>October 27, 2pm-whenever</h2>
 </td>
 <td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,22 +53,6 @@
 </table>
 </div>
 <br/>
-<div style="
-	align: center;
-	margin: auto;
-    width: 80%;
-	height: 120px;
-	background-color: khaki;
-	justify-content: center;
-	border: darkkhaki 5px solid;
-	font-size: 20px;
-	font-family: sans-serif;
-	padding: 0px;
-	text-align: center;
-	">
-<p>Weather Update: Unfortunately, the weather forecast is not looking great for Sunday with showers (potentially heavy at times) predicted. We are still A GO at the moment, but we are moving our activities indoors. Probably will need to pass on the moon bounce & smores :( We'll still have a play room available for the kiddos though!</p>
-</div>
-<div style="height: 40px;">
 </div>
 <div style="
 	align: center;
@@ -97,6 +81,31 @@ While we will have some food and drinks, please feel free to bring something (si
 
 <p>
 And for the uninitiated, you'll want to <a href="https://www.youtube.com/watch?v=zsbyUdmd8ys"> review the basics on how to oktoberfest</a>.
+</p>
+<div style="height: 40px;">
+</div>
+<div style="
+	align: center;
+	margin: auto;
+    width: 80%;
+	height: 120px;
+	background-color: khaki;
+	justify-content: center;
+	border: darkkhaki 5px solid;
+	font-size: 20px;
+	font-family: sans-serif;
+	padding: 0px;
+	text-align: center;
+	">
+<p>
+<ul>
+<li>More merrier: Yes, extend the invite to anyone else you like!</li>
+<li>Child Friendly:It’s not a beer festival, it’s a harvest festival andit’s fun for the whole family.</li>
+<li>Attire: Yes, we will make it as authentic as possible, boys, girls, kids!</li>
+<li>Rain: sorry, no rain date is planned :(</li>
+<li>Covid: we will be mostly outdoors but no special covid precautions are in place; please be respectful if you are not vaccinated, have tested positive, or recently exposed </li>
+<li>Lost Items: Joined up before and lost something? Check out the <a href="https://photos.app.goo.gl/iwA7Z9jW2j50CgqC3">lost and found</a> …send us a note at barcroft.oktoberfest@gmail.com and we’ll get your items back to you. </li>
+</ul>
 </p>
 </div>
 <?php
