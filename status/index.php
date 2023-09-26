@@ -29,8 +29,9 @@
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
 <td>
-<h1 style="font-size: 30px; text-align:right; font-family: Bavarian;">Barcroft</h1>
+<h1 style="font-size: 60px; text-align:right; font-family: Bavarian;">Barcroft</h1>
 </td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 <td>
 <h1 style="font-size: 100px; text-align:left; font-family: Bavarian;">Oktoberfest</h1>
 </td>
@@ -47,13 +48,13 @@
 </td>
 <td>
 <h2>4407 6th St South, Arlington VA</h2>
+<br/>
+<h2><em>and</em> 4406 4th St South, Arlington VA</h2>
+</td>
 </td>
 <tr>
 <td>Please <a href="mailto:barcroftoktoberfest@gmail.com">RSVP</a> if you can (just to help us plan better) </td>
 </tr>
-<td>
-<h2><em>and</em> 4406 4th St South, Arlington VA</h2>
-</td>
 </tr>
 </table>
 </div>
