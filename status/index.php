@@ -40,21 +40,20 @@
 <div >
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
-<td>
-<h2>October 8, 2pm-whenever</h2>
-</td>
-<td>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</td>
-<td>
-<h2>4407 6th St South, Arlington VA</h2>
-<br/>
-<h2><em>and</em> 4406 4th St South, Arlington VA</h2>
-</td>
-</td>
-<tr>
-<td>Please <a href="mailto:barcroftoktoberfest@gmail.com">RSVP</a> if you can (just to help us plan better) </td>
+  <td>
+    <h2>October 8, 2pm-whenever</h2>
+<p>Please <a href="mailto:barcroftoktoberfest@gmail.com">RSVP</a> if you can (just to help us plan better) </p>
+  </td>
+  <td>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </td>
+   <td>
+      <h2>4407 6th St South, Arlington VA</h2>
+      <br/>
+      <h2><em>and</em> 4406 4th St South, Arlington VA</h2>
+   </td>
 </tr>
+<tr>
 </tr>
 </table>
 </div>
