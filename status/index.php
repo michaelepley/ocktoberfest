@@ -19,7 +19,7 @@
       border:0;
     }
 	body {
-	  background-image: url("images/bavarian-pattern_640.png");
+	  background-image: url("images/bavarian-pattern_640.trimmed.png");
 	  background-repeat: repeat;
 	}
   </style>
