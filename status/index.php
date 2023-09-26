@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Mike and Cathy's Ocktoberfest</title>
+  <title>Barcroft Oktoberfest</title>
   <style>
 	@font-face {
 	  font-family: Bavarian;
@@ -29,11 +29,10 @@
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
 <td>
-<h1 style="font-size: 30px; text-align:right; font-family: Bavarian;">Mike &</h1>
-<h1 style="font-size: 30px; text-align:right; font-family: Bavarian;">Cathy's</h1>
+<h1 style="font-size: 30px; text-align:right; font-family: Bavarian;">Barcroft</h1>
 </td>
 <td>
-<h1 style="font-size: 80px; text-align:left; font-family: Bavarian;">Ocktoberfest</h1>
+<h1 style="font-size: 100px; text-align:left; font-family: Bavarian;">Oktoberfest</h1>
 </td>
 </tr>
 </table>
@@ -41,13 +40,19 @@
 <table style="align: center;   margin: auto; width: 80%;">
 <tr>
 <td>
-<h2>October 27, 2pm-whenever</h2>
+<h2>October 8, 2pm-whenever</h2>
 </td>
 <td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
 <td>
 <h2>4407 6th St South, Arlington VA</h2>
+</td>
+<tr>
+<td>Please <a href="mailto:barcroftoktoberfest@gmail.com">RSVP</a> if you can (just to help us plan better) </td>
+</tr>
+<td>
+<h2><em>and</em> 4406 4th St South, Arlington VA</h2>
 </td>
 </tr>
 </table>
@@ -88,7 +93,7 @@ And for the uninitiated, you'll want to <a href="https://www.youtube.com/watch?v
 	align: center;
 	margin: auto;
     width: 80%;
-	height: 120px;
+	height: 210px;
 	background-color: khaki;
 	justify-content: center;
 	border: darkkhaki 5px solid;
@@ -110,6 +115,7 @@ And for the uninitiated, you'll want to <a href="https://www.youtube.com/watch?v
 </div>
 <?php
 $refresh=30;
+$url="";
 // <!-- Automatically refresh page every few seconds, if the refresh request parameter is provided -->  
 if (isset($_GET["refresh"])) {
 	$refresh=$_GET["refresh"]; 
